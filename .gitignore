@@ -1,0 +1,25 @@
+# Binaires et fichiers temporaires
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/tmp
+
+# Fichiers de dépendances
+/vendor/
+
+# Fichiers de configuration locaux
+.env
+.env.local
+*.local
+
+# Fichiers système
+.DS_Store
+.idea/
+.vscode/
+
+# Fichiers de log
+*.log 
